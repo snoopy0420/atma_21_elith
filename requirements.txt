@@ -22,3 +22,8 @@ polars==1.33.1
 datasets==4.0.0
 python-box==7.3.2
 sentencepiece==0.2.1
+
+boto3==1.42.3
+botocore==1.42.3
+s3transfer==0.16.0
+python-dotenv==1.2.1  
